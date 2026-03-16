@@ -25,6 +25,8 @@ This mini-project is meant to get familiar with:
    ```
    You're all set!
 
+> **NOTE:** Throughout the next exercises, specify and install any dependency that should be tracked, when it applies.
+
 ## Iteration 2: introduce linting and formatting
 
 ### Formatting with Black & isort
@@ -61,3 +63,8 @@ It is possible to make it so VS Code prompts users to install the exact
 extensions we are using in the project within their workspace. It can be done
 by creating a file named `extensions.json`. Let's make one and add it to version
 control.
+
+## Iteration 3: refactoring
+
+1. Open the [income.py](./market_study_kata/income.py) module. What do you notice?
+2. Refactor the function `f` until it becomes more readable. Feel free to rename the function and the module itself if you see fit.
