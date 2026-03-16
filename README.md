@@ -68,3 +68,17 @@ control.
 
 1. Open the [income.py](./market_study_kata/income.py) module. What do you notice?
 2. Refactor the function `f` until it becomes more readable. Feel free to rename the function and the module itself if you see fit.
+
+## Iteration 4: introducing tests
+
+Congratulations, your code is more testable now!
+Add tests for the testable functions you eventually managed to extract.
+
+# Iteration 5: add a new feature with a TDD approach
+
+We want the app to be able to determine whether a company is a competitor for an entrepreneur or not.
+
+We will consider a company is a competitor of another if:
+
+1. They have the same NAF code
+2. They are in the same department
