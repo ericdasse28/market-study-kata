@@ -1,5 +1,16 @@
 # market-study-kata
 
+In this kata, you will develop the backend of a market study solution
+designed to help entrepreneurs gather information before starting an activity.
+
+This mini-project is meant to get familiar with:
+
+- Python project configuration
+- Python conventions
+- Writing and maintaining Pythonic code
+- Testing
+- Choosing the right programming paradigm given a situation
+
 ## Iteration 1: adding Poetry to an existing project
 
 1. Install [Poetry](https://python-poetry.org/docs/1.8#installing-with-pipx)
