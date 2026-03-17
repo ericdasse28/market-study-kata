@@ -74,7 +74,7 @@ control.
 Congratulations, your code is more testable now!
 Add tests for the testable functions you eventually managed to extract.
 
-# Iteration 5: add a new feature with a TDD approach
+## Iteration 5: add a new feature with a TDD approach
 
 We want the app to be able to determine whether a company is a competitor for an entrepreneur or not.
 
